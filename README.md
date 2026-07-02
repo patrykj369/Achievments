@@ -1,3 +1,3 @@
 # Achievments
 ---
-# Collaborateing
+# Collaborate
